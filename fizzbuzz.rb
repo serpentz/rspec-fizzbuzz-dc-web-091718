@@ -10,13 +10,13 @@ elsif num % 3 == 0
 elsif num % 5 == 0
    "Fuzz"
 else
-  return
+  return nil
 
 end
 
 
 
-end
+
 end
 
   fizz_3 = fizzbuzz(3)
