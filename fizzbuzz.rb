@@ -9,9 +9,6 @@ elsif num % 3 == 0
    "Buzz"
 elsif num % 5 == 0
    "Fuzz"
-else
-  return nil
-
 end
 
 
