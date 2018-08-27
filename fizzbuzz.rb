@@ -9,6 +9,8 @@ elsif num % 3 == 0
   puts "Buzz"
 elsif num % 5 == 0
   puts "Fuzz"
+else
+  return
 
 end
 
